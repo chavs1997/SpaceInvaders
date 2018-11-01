@@ -4,7 +4,6 @@ public class Alien {
     private int col;
     private int row;
 
-
     //dead/alive
     private boolean alive = true;
 
